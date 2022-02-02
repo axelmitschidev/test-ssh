@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/axelmitschidev/test-ssh#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "twig": "^1.15.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
